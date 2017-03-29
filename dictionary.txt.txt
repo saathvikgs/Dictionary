@@ -1,0 +1,7 @@
+addWord:cold:not hot
+addWord:compute:calculate
+addWord:blue:color
+addSynonym:cold:chill
+addSynonym:cold:freeze
+lookupWord:cold
+lookupSynonyms:cold
